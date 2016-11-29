@@ -1165,4 +1165,6 @@ $EndComp
 Wire Wire Line
 	1750 6600 2150 6600
 Connection ~ 2150 6600
+Text Notes 850  6700 0    60   ~ 0
+15V DC IN
 $EndSCHEMATC

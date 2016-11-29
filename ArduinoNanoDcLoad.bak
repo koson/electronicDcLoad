@@ -38,11 +38,11 @@ Sheet 1 1
 Title "DC Electronic Load with Arduino Nano"
 Date ""
 Rev "A"
-Comp "ACME"
-Comment1 "No External DAC or ADC"
-Comment2 ""
-Comment3 ""
-Comment4 ""
+Comp ""
+Comment1 "· No External DAC or ADC"
+Comment2 "· Power Limit TBD"
+Comment3 "· 0-5 Amperes"
+Comment4 "· 0.8-50 Volts"
 $EndDescr
 $Comp
 L R R1
