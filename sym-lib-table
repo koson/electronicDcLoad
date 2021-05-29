@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "ArduinoNanoDcLoad-rescue")(type "Legacy")(uri "${KIPRJMOD}/ArduinoNanoDcLoad-rescue.lib")(options "")(descr ""))
+  (lib (name "lmc6484")(type "Legacy")(uri "${KIPRJMOD}/lmc6484.lib")(options "")(descr ""))
+)
